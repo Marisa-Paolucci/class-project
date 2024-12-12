@@ -4,4 +4,7 @@ This is a simple class project for my IBM SkillsBuild course
 
 Hilma af Klint (Swedish, 1862-1944) <br />
 The Large Figure Paintings, No. 5, Group III, The Key to All Works to Date, The WU/Rose Series <br />
-1907 <br />
+1907 - exhibited at MoMA in 1989 (not in their permanent collection) <br />
+
+![bar_chart_gender_diversity_moma](https://github.com/user-attachments/assets/a122c1a4-ee58-4a03-8d5f-e14d77f423c8) <br />
+Found in the analyze.ipynb file
